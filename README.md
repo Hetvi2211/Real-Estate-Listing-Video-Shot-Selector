@@ -175,3 +175,13 @@ All free / localhost only per task spec:
 - Show: folder upload → pipeline run → picks table → room distribution chart → FFmpeg stitch → download preview.mp4.
 - Show the **Evaluation tab**: upload labels.csv, see confusion matrix, confirm accuracy ≥ 0.70.
 - Show terminal output of `python eval/run_eval.py` confirming quality gates.
+
+## 📋 What I'd Do With More Time
+
+If given more development time, I would focus on these key upgrades to move this project from an MVP to a production-ready tool:
+
+* **Fine-Tune the AI Model:** Fine-tune CLIP on a small dataset of real estate photos to improve its accuracy on tricky areas, like open-concept kitchen/dining rooms.
+* **Add Audio Awareness:** Use audio classification to detect high-echo spaces (bathrooms) or outdoor sounds (exteriors), and use the background music's beat to time the video cuts perfectly.
+* **Improve Motion Analysis:** Upgrade the OpenCV tracking to deep-learning optical flow to better separate intentional camera pans from accidental shaky movements.
+* **Speed Up Processing:** Implement parallel processing and model quantization (FP16/ONNX) so the pipeline can process large batches of videos much faster on standard CPUs.
+* **Export to Editing Software:** Instead of just making a finished video, generate standard XML or EDL project files so editors can import the top 12 picks directly into Adobe Premiere or DaVinci Resolve.
