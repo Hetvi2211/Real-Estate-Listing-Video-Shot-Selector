@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Videos
+*.mp4
+*.zip
+
+# Streamlit
+.streamlit/
+
+# Models
+*.pth
+*.pt
+*.onnx
+
+# VS Code
+.vscode/
+
+# Logs
+*.log

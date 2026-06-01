@@ -1,0 +1,31 @@
+shot_id,room_type
+clip01_shot000,bedroom
+clip01_shot001,bedroom
+clip01_shot002,living room
+clip02_shot000,kitchen
+clip02_shot001,kitchen
+clip02_shot002,kitchen
+clip03_shot000,bathroom
+clip03_shot001,bathroom
+clip04_shot000,living room
+clip04_shot001,living room
+clip04_shot002,living room
+clip05_shot000,exterior
+clip05_shot001,exterior
+clip06_shot000,bedroom
+clip06_shot001,kitchen
+clip07_shot000,bathroom
+clip07_shot001,living room
+clip07_shot002,exterior
+clip08_shot000,bedroom
+clip08_shot001,bedroom
+clip09_shot000,kitchen
+clip09_shot001,kitchen
+clip10_shot000,exterior
+clip10_shot001,exterior
+clip11_shot000,bathroom
+clip11_shot001,bathroom
+clip12_shot000,living room
+clip12_shot001,bedroom
+clip13_shot000,kitchen
+clip13_shot001,exterior
