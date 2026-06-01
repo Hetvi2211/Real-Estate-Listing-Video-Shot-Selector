@@ -38,7 +38,7 @@ ffmpeg -version
 ### Install dependencies
 
 ```bash
-git clone https://github.com/<your-username>/real-estate-shot-selector
+git clone https://github.com/Hetvi2211/Real-Estate-Listing-Video-Shot-Selector
 cd real-estate-shot-selector
 
 pip install -r requirements.txt
